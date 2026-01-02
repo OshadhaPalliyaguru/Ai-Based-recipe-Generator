@@ -33,3 +33,13 @@
   border-radius: 5px;
 
 }
+
+.ingredient_list{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  gap: 10px;
+  flex-wrap: wrap;
+}
